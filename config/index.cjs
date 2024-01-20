@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '73e53c8ed8b285322929c7d0754ac33f',
 
-  PROVINCE: '陕西',
-  CITY: '西安',
+  PROVINCE: '陕西省',
+  CITY: '西安市',
 
   USERS: [
     {
@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'olDYP6_JER3zlGATHjIX45_-NlJw',
     }
   ],
 
