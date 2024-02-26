@@ -105,16 +105,16 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: []
+  USERS: [
     {
       // 想要发送的人的名字
       name: '老婆0',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       // 使用其他通道时，请严格按照各个通道的教程进行填写
-      id: '',
+      id: 'olDYP63PoUOfuqY-h6d4otr3Ya8k',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
-      useTemplateId: 'BLOGOVxegmBvXLPCaohzeBFSl6sPETgq1jd79MK0FyM',
+      useTemplateId: 'N4Wq8OQ69cztUmQZBm5ytXpKbE877YBBNrref8GqTOY',
       // 所在省份或城市，也可以不填
       province: '惠州',
       // 所在城市或县区
