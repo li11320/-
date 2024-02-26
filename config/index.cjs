@@ -105,7 +105,7 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [olDYP6_JER3zlGATHjIX45_-NlJw],[olDYP6_JER3zlGATHjIX45_-NlJw]
+  USERS: [olDYP6_JER3zlGATHjIX45_-NlJw]
     {
       // 想要发送的人的名字
       name: '锦宝宝~',
@@ -115,7 +115,6 @@ const USER_CONFIG = {
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
       useTemplateId: 'N4Wq8OQ69cztUmQZBm5ytXpKbE877YBBNrref8GqTOY',
-      useTemplateId: 'JG1ZQ98-XLI1l78wOFK3Ud1ADeHCSuyvRz053LFhJ5A',
       // 所在省份或城市，也可以不填
       province: '北京',
       // 所在城市或县区
