@@ -73,7 +73,7 @@ const USER_CONFIG = {
   
   TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
-    key: '',
+    key: 'a165094c39e0030553b693210dac9926',
     
     /** 天行API相关，需要config中配置 TIAN_API_KEY  */
     // 早安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
@@ -114,7 +114,8 @@ const USER_CONFIG = {
       id: 'olDYP6_JER3zlGATHjIX45_-NlJw',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
-      useTemplateId: 'N4Wq8OQ69cztUmQZBm5ytXpKbE877YBBNrref8GqTOY','JG1ZQ98-XLI1l78wOFK3Ud1ADeHCSuyvRz053LFhJ5A',
+      useTemplateId: 'N4Wq8OQ69cztUmQZBm5ytXpKbE877YBBNrref8GqTOY',
+      useTemplateId: 'JG1ZQ98-XLI1l78wOFK3Ud1ADeHCSuyvRz053LFhJ5A',
       // 所在省份或城市，也可以不填
       province: '惠州',
       // 所在城市或县区
